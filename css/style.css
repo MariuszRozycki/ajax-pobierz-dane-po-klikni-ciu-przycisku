@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+  color: #fff;
+  background-color: darkblue;
+}
+
+h1 {
+  margin: 30px auto 40px;
+}
+
+button {
+  background-color: darkorange;
+  padding: 15px 20px;
+  margin-top: 30px;
+  margin-bottom: 70px;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
+.paragraph-wrapper {
+  margin: 0 auto;
+  width: 70%;
+}
+
+p {
+  text-align: left;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+hr {
+  margin-bottom: 50px;
+  border: 1px solid darkorange;
+
+}
